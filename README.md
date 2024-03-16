@@ -1,4 +1,4 @@
-
+App Idea:
 - Gui with a open vertical space for text to appear, with a scroll bar on the side and a text box at the bottom which the user types start and stop to the program. At the top is 2 tabs one says overview the other when clicked on asks for a username and then shows all the messages from that one person. And on the right side at the top and exit button. On the left is settings icon button that when pressed shows a opace red box where the program is looking for text.
 - when the user types start in the text box the main program starts:
 - create multithreading pool with a quarter of all available threads for better efficiency. The pool allows the program to pick the current least used thread.
